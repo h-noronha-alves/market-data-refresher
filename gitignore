@@ -1,0 +1,10 @@
+# Ignore any local clasp config that may contain project IDs
+.clasp.json
+
+# Ignore environment/secret files
+.env
+secrets.*
+
+# OS files
+.DS_Store
+Thumbs.db
