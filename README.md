@@ -1,6 +1,8 @@
 # 📊 Market Data Refresher for Google Sheets
 
 **Author:** [h-noronha-alves](https://github.com/h-noronha-alves)
+**Version:** v26.05.08-0001hna
+**License:** [MIT](LICENSE)
 
 A Google Apps Script that fetches live cryptocurrency market data for up to 150 tickers, writing results directly to your spreadsheet every N minutes — no formulas, no caching issues, no quota headaches.
 
