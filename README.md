@@ -114,6 +114,7 @@ Each source is tried in order. The first successful response wins. If all fail, 
 - Traditional assets (commodities, forex, stocks) are not supported by these APIs
 - The CoinGecko symbol→ID map is cached for 6 hours to minimise API calls
 - `setupTriggers()` always wipes existing triggers before creating new ones — safe to run multiple times
+- If the time-based trigger writes to the wrong tab, set `CFG.sheetName` in `Code.gs` to the exact name of your data tab
 
 ---
 

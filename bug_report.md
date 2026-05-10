@@ -46,7 +46,7 @@ Paste the relevant output from **Apps Script → Executions** here:
 
 - Google Sheets: (e.g. browser / desktop app)
 - Browser: (e.g. Chrome 124)
-- Script version: (e.g. 1.0.0)
+- Script version: (e.g. v26.05.08-0001hna)
 - API source that failed: (e.g. CMC key #1 / CoinGecko)
 
 ---
